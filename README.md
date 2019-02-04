@@ -8,16 +8,16 @@ At the end of the course, you should have a sense of:
 
 1. What software to use to analyze data in R or Python
 1. Some basic ideas about how to find a dataset and use it
-  * Where to look
-  * What the possibilities are for webscraping
-  * What different formats are
+    * Where to look
+    * What the possibilities are for webscraping
+    * What different formats are
 1. The differences between categorical, numerical, and continuous data
-  * integer, double, logical, character, complex
-  * Integer, Float, Boolean, Object
+    * integer, double, logical, character, complex
+    * Integer, Float, Boolean, Object
 1. The conceptual object that is the “data frame.”
-  * list, vector, matrix
-  * column, index, `dataFrame`
-  * `describe()` and `summary()`
+    * list, vector, matrix
+    * column, index, `dataFrame`
+    * `describe()` and `summary()`
 1. How to make simple plots that help describe your data
 
 The data set used is a lightly edited version of the February 2018 NYC Green
