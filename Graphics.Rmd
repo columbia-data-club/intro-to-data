@@ -10,12 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+
 ```{r}
 data = read.csv("taxi-data.csv")
 head(data)
 ```
 ## Bargraphs
-```{r}
+```{r,echo=FALSE}
 table(data$payment)
 names(table(data$payment))
 levels(data$payment)
@@ -29,7 +30,7 @@ barplot(height = table(data$payment), names.arg = names(table(data$payment)))
 #hist(data$payment) #see the difference between barplot and histogram
 hist(data$payment_type, main = "Histogram of Payment_type")
 hist(data$tip, main = "Histogram of Tip")
-hist(data$tip, breaks= max(data$tip), main = "Histogram of Tip", xlim = c(0,20))
+hist(data$tip, breaks= max(data$tip), main = "Histogram of Tip", xlim = c(-5,20),col = rainbow(5))
 ```
 
 ## Boxplot
@@ -39,19 +40,23 @@ Visualize the distribution of a categorical variable and a continuous variable u
 
 ```{r}
 data1=data[data$total!=2626.3,]
-boxplot(total~payment_type, data = data1, ylab="Total expenses", xlab="Payment_type",main="Total vs Payment_type")
-
-boxplot(distance~payment_type, data = data)
+#InterQuartile Range,IQR = 75%quantile - 25%quantile
+boxplot(total~payment_type, data = data1, range = 2,ylab="Total expenses", xlab="Payment_type",main="Total vs Payment_type",ylim=c(-5,100))
+# range parameter help you identify the outliers (default setting range = 1.5*IQR)
+boxplot(distance~payment_type, data = data, ylim=c(-5,10), varwidth=F, names=levels(data$payment))
 ```
 
 ## Scatter
 ```{r}
-plot(data$distance, data$tip, xlab = "Distance", ylab = "Tip amount", main = "Tip vs Distance")
+plot(data$distance, data$tip, xlab = "Distance", ylab = "Tip amount", main = "Tip vs Distance", type = "p")
 ```
 
 ```{r}
-plot(data$distance, data$tip, xlab = "Distance", ylab = "Tip amount", main = "Tip vs Distance", col = data$payment, pch=16)
-legend("topright", legend = levels(data$payment), fill = 1:length(levels(data$payment)), cex = 1.0)
+# colors using the functions rainbow(n), heat.colors(n), terrain.colors(n), topo.colors(n), and cm.colors(n)
+levels(data$payment)
+plot(data$distance, data$tip, xlab = "Distance", ylab = "Tip amount", main = "Tip vs Distance", col = terrain.colors(5)[data$payment], pch=16)
+legend("topright", legend = levels(data$payment), fill = terrain.colors(5), cex = 1.0)
+# colors() returns all color names
 abline(20,2)
 ```
 
