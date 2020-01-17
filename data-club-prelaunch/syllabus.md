@@ -1,4 +1,4 @@
-**Syllabus**  
+#Syllabus 
 *Note: all of the below have the following format:  
 #. Headline: Motivating question  
 Topics covered  
