@@ -1,7 +1,7 @@
 # Syllabus 
 *February 17 - April 20*  
-*Mondays 5:30-7pm, 215 Lehman
-
+*Mondays 5:30-7pm, 215 Lehman*  
+  
 **0. Problem definition and process:** *Finding answers to complicated questions using data*  
 __*Topics covered:*__ Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process; case studies  
     
