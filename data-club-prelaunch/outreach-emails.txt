@@ -1,0 +1,16 @@
+*Email to department/program coordinators:
+
+Columbia University Libraries is rebooting/restarting/reactivating Data Club, a weekly meeting that will span 8 weeks from TK to TK, from TK to TK in the RDS library. Over these 8 weeks Data Club meetings will offer introductory instruction on 8 data analytics and data science topics, a collaborative space for knowledge exchange, and the support and guidance of Columbia University librarians.
+The instruction, collaborative space, and accountability that data club provides will be ideal for students working a personal data project they aim to complete by the end of the 8-week period; however, all students are welcome. The topics covered by the Data Club include:
+[insert syllabus here when finalized]
+
+*Email to studens:
+
+Do you have a question you want to answer using data, but you're not sure where to start? Do you have a data project you've started, but can't find the right tools or advice to finish? Or, do you just need a collaborative environment and some accountability partners to complete a data project for your personal curiosity/portfolio?
+
+
+*Outreach avenues:
+
+- Department coordinators for: Political Science, Sociology, Art History, Literature, History, Linguistics, DSI, QMSS, SIPA DAQA specialization, SIPA Sustainable Development
+- Blanket emails: SIPA, DSI
+- Particular professors: Adam Cannon, Sameer Maskey, Dennis Tennen?
