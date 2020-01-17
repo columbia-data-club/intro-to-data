@@ -41,6 +41,6 @@ Other topics:
 - Bayesian analysis
 - parallel computing - dask
 - OOP
-- unsupervised learning
-- More supervised learning algorithms: Naive Bayes, Categorical MLE, Poisson Regression, Neural networks, and Deep learning, RNNs
-
+- unsupervised learning: hierarchical clustering, DBSCAN, Mean Shift, Spectral Machine learning topics: distance metrics
+- more supervised learning algorithms: Naive Bayes, Categorical MLE, Poisson Regression, Neural networks, and Deep learning, RNNs
+- More on dimensionality reduction, MapReduce
