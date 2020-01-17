@@ -1,7 +1,16 @@
+Syllabus
+[Note: all of the below have the following format:
+#. Headline: Motivating question
+Topics covered
+Supplementary materials]
+[All topics will also contain a Jupyter notebook lesson plan]
+
 0. Problem definition and process: How do you find answers to a complicated question using data?
-Topics covered: Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process
+- Topics covered: Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process
+- Supplementary materials: case studies
 1. Introduction to data analysis using python: How do you use python to begin answering your question?
 Topics covered: Getting started with python and Google Colab; data wrangling including aggregation and summary statistics; basic visualization for exploratory data analysis
+- Supplementary materials: 
 2. Advanced data exploration: How do you understand the shape of and relationships within your data?
 Topics covered: Distributions, relationships between variables, bias, hypothesis testing, bias, linear and logistic regressions
 3. Machine learning tools: Which types of questions are best for answering with basic machine learning techniques?
