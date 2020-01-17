@@ -18,12 +18,14 @@ __*Topics covered:*__ Spatial regression; geopandas
 **5. Introduction to interactive visualization:** *Creating tools to facilitate exploration*  
 __*Topics covered:*__ Dashboard and interactive best practices; bokeh; seaborn; tableau  
   
-**6. Getting your own data:** *What can you do when you can't find the right data?*  
+**6. Non-tabular data:** *Methods for gathering and analyzing text and unstructured data*  
 __*Topics covered:*__  Web scraping using beautifulsoup and Selenium; overview of unstructured data (image, audio, etc.)
   
-**7. Big data tools:** *Working with gigabytes of data and beyond*  
-__*Topics covered:*__ Introduction to relational database design and use; SQL; overview of big data tools (Hadoop, Hive, Pig, pySpark) and cloud computing  
+**7. Big data tools:** *Working with databases and large datasets*  
+__*Topics covered:*__ Introduction to relational database design and use; SQL; overview of big data tools (Hadoop, Hive, Pig, pySpark) and cloud computing; overview of dimensionality reduction  
   
 **8. Communicating data:** *Communicating your work in a clear, compelling, and responsible way*  
 __*Topics covered:*__ Basic components of research papers; best practices for presenting; portfolio tips  
   
+Other topics:
+
