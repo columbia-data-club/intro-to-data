@@ -6,11 +6,11 @@ Supplementary materials
 *All topics will also contain a Jupyter notebook lesson plan*
 
 **0. Problem definition and process:** *How do you find answers to a complicated question using data?*  
-*Topics covered:* Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process  
-*Supplementary materials:* case studies  
+_*Topics covered:*_ Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process  
+_*Supplementary materials:*_ case studies  
   
 **1. Introduction to data analysis using python:** *How do you use python to begin answering your question?*  
-*Topics covered:* Getting started with python and Google Colab; data wrangling including aggregation and summary statistics; basic visualization for exploratory data analysis  
+_*Topics covered:*_ Getting started with python and Google Colab; data wrangling including aggregation and summary statistics; basic visualization for exploratory data analysis  
 *Supplementary materials:*   
   
 **2. Advanced data exploration:** *How do you understand the shape of and relationships within your data?*  
