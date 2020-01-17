@@ -1,4 +1,6 @@
 # Syllabus 
+*February 17 - April 20*  
+*Mondays 5:30-7pm, 215 Lehman
 
 **0. Problem definition and process:** *Finding answers to complicated questions using data*  
 __*Topics covered:*__ Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process; case studies  
@@ -28,7 +30,7 @@ __*Topics covered:*__ Introduction to databases (overview of RESTful APIs, NoSQL
 __*Topics covered:*__ Basic components of research papers; best practices for presenting; portfolio tips  
   
   
-==
+======
 
 **Other topics:** These are the topics that I collected from scouring syllabi for data science boot camps, datacamp.io, and Downey's Think Statistics that I couldn't fit into the above or did not think were high priority. I figure we can work from this if we want to swap out any of the topics above.  
 - slightly more complex data cleaning methods (imputing missing values, etc)
