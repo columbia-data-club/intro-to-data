@@ -1,18 +1,18 @@
 # Syllabus 
 
-**0. Problem definition and process:** *How do you find answers to a complicated question using data?*  
+**0. Problem definition and process:** *Finding answers to complicated questions using data*  
 __*Topics covered:*__ Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process; case studies  
     
-**1. Introduction to data analysis using python:** *How do you use python to begin answering your question?*  
+**1. Introduction to data analysis using python:** *Use python to begin exploring your data*  
 __*Topics covered:*__ Getting started with python and Google Colab; data wrangling including aggregation and summary statistics; basic visualization for exploratory data analysis     
   
-**2. Advanced data exploration:** *How do you understand the shape of and relationships within your data?*  
+**2. Advanced data exploration:** *Understanding the shape of and relationships within your data*  
 __*Topics covered:*__ Distributions; relationships between variables; bias; hypothesis testing; linear and logistic regressions  
   
-**3. Machine learning tools:** *Which types of questions are best for answering with basic machine learning techniques?*  
+**3. Machine learning tools:** *Identifying questions suited to basic machine learning techniques*  
 __*Topics covered:*__ Basic classification and clustering basic theory; introduction to implementation in TensorFlow and sci-kit learn  
   
-**4. Spatial analysis:** *How do you find location-specific answers to your questions?*  
+**4. Spatial analysis:** *Find location-specific answers to your questions*  
 __*Topics covered:*__ Spatial regression; geopandas  
   
 **5. Introduction to interactive visualization:** *Creating tools to facilitate exploration*  
@@ -21,9 +21,9 @@ __*Topics covered:*__ Dashboard and interactive best practices; bokeh; seaborn; 
 **6. Getting your own data:** *What can you do when you can't find the right data?*  
 __*Topics covered:*__  Web scraping using beautifulsoup and Selenium; overview of unstructured data (image, audio, etc.)
   
-**7. Big data tools:** *How do you handle gigabytes of data and beyond?*  
+**7. Big data tools:** *Working with gigabytes of data and beyond*  
 __*Topics covered:*__ Introduction to relational database design and use; SQL; overview of big data tools (Hadoop, Hive, Pig, pySpark) and cloud computing  
   
-**8. Communicating data:** *How do you write or speak about your analysis in a clear, compelling, and responsible way?*  
+**8. Communicating data:** *Writing or speaking about your analysis in a clear, compelling, and responsible way*  
 __*Topics covered:*__ Basic components of research papers; best practices for presenting; portfolio tips  
   
