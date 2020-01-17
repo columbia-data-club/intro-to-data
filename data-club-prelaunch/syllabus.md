@@ -30,9 +30,9 @@ __*Topics covered:*__ Introduction to databases (overview of RESTful APIs, NoSQL
 __*Topics covered:*__ Basic components of research papers; best practices for presenting; portfolio tips  
   
   
-======
 
-**Other topics:** These are the topics that I collected from scouring syllabi for data science boot camps, datacamp.io, and Downey's Think Statistics that I couldn't fit into the above or did not think were high priority. I figure we can work from this if we want to swap out any of the topics above.  
+## **Other topics:** 
+These are the topics that I collected from scouring syllabi for data science boot camps, datacamp.io, and Downey's Think Statistics that I couldn't fit into the above or did not think were high priority. I figure we can work from this list if we want to swap out any of the topics above.  
 - slightly more complex data cleaning methods (imputing missing values, etc)
 - version control (Github)
 - time series data, ARIMA models
