@@ -9,7 +9,7 @@ __*Topics covered:*__ Getting started with python and Google Colab; data wrangli
 **2. Advanced data exploration:** *Understanding relationships within your data*  
 __*Topics covered:*__ Distributions; relationships between variables; bias; hypothesis testing; linear and logistic regressions  
   
-**3. Machine learning tools:** *Identifying questions suited to basic machine learning techniques*  
+**3. Machine learning tools:** *Identifying questions suited to machine learning techniques*  
 __*Topics covered:*__ Basic classification and clustering basic theory; introduction to implementation in TensorFlow and sci-kit learn  
   
 **4. Spatial analysis:** *Finding location-specific answers to your questions*  
@@ -24,6 +24,6 @@ __*Topics covered:*__  Web scraping using beautifulsoup and Selenium; overview o
 **7. Big data tools:** *Working with gigabytes of data and beyond*  
 __*Topics covered:*__ Introduction to relational database design and use; SQL; overview of big data tools (Hadoop, Hive, Pig, pySpark) and cloud computing  
   
-**8. Communicating data:** *Writing or speaking about your analysis in a clear and responsible way*  
+**8. Communicating data:** *Communicating your work in a clear, compelling, and responsible way*  
 __*Topics covered:*__ Basic components of research papers; best practices for presenting; portfolio tips  
   
