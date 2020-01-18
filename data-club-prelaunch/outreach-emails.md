@@ -10,6 +10,7 @@ Data Club will meet weekly on each Monday from February 17 to April 20, from 5:3
   
 The last session of Data Club will be devoted to peer presentations, where students are given the opportunity to practice communicating their data work. If you know any students who would find this directed session and space helpful, please direct them to our first meeting on February 17 from 5:30-7pm and to sign up for our Data Club mailing list [here].  
   
+  
 Sincerely,  
 
 Columbia University Libraries
@@ -30,6 +31,7 @@ Data Club will meet weekly on each Monday from February 17 to April 20, from 5:3
 [syllabus here once finalized]  
   
 The last session of Data Club will be devoted to peer presentations, where you can practice communicating your data work to your peers and fellow data enthusiasts! If you're interested in learning more about answering complicated questions using data in a fun and collaborative environment, or even just witness the full majesty of the Data Club, please stop by our first meeting on February 17 from 5:30-7pm and sign up for the Data Club mailing list [here].  
+  
   
 Sincerely,   
   
