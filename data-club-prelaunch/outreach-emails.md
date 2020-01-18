@@ -1,4 +1,4 @@
-## Email to department/program coordinators:
+### Email to department/program coordinators:
 
 Do you know of any students looking to engage in exploratory data projects in a supportive, collaborative environment? For 8 weeks this semester, Columbia University Libraries will be hosting weekly convenings of Data Club. Each of these 8 Data Club meetings will offer introductory instruction on a data analytics and data science topic, a collaborative space for knowledge exchange, and the support and guidance of Columbia University librarians. Data Club meetings are open to all who want to learn more about how to creatively and rigorously answer questions using data, regardless of background. We believe that the instruction, camaraderie, and accountability that Data Club provides will be especially ideal for students working a personal data project they aim to complete by the end of the 8-week period, including undergraduate, master's, and doctoral students looking to make progress on sub-parts of their theses or students seeking to finish a project to add to their portfolio.
 
@@ -15,7 +15,7 @@ Columbia University Libraries
 _____
 
 
-## Email to students (if blast):
+### Email to students (blast):
 
 Do you have a question you want to answer using data, but you're not sure where to start? 
 Do you have a data project you've started, but can't find the right tools or advice to finish? 
@@ -35,7 +35,7 @@ Columbia University Libraries
 
 _____
 
-## Potential recipients:
+### Potential recipients:
 
 - Department coordinators for: Political Science, Sociology, Art History, Literature, History, Linguistics, DSI, QMSS, SIPA DAQA specialization, SIPA Sustainable Development
 - Blanket emails: SIPA, DSI
