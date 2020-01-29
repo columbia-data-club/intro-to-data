@@ -1,12 +1,12 @@
+Don’t forget to encourage people to come in with a question/dataset per
+meeting.
+
 # Syllabus 
 *February 17 - April 20*  
 *Mondays 5:30-7pm, 215 Lehman*  
   
-**0. Problem definition and process:** *Finding answers to complicated questions using data*  
-__*Topics covered:*__ Problem definition using top-down and bottom-up approaches; how to get data; how to use design thinking, iterative design, agile methodology, and a minimum viable product to streamline your process; case studies  
-    
-**1. Introduction to data analysis using python:** *Use python to begin exploring your data*  
-__*Topics covered:*__ Getting started with python and Google Colab; data wrangling including aggregation and summary statistics; basic visualization for exploratory data analysis     
+**1. Introduction to data analysis using Python:** *Use python to begin exploring your data*  
+__*Topics covered:*__ Getting started with Python and Google Colab; data wrangling including aggregation and summary statistics; basic visualization for exploratory data analysis     
   
 **2. Advanced data exploration:** *Understanding relationships within your data*  
 __*Topics covered:*__ Distributions; relationships between variables; bias; hypothesis testing; linear and logistic regressions using statsmodel  
@@ -15,13 +15,13 @@ __*Topics covered:*__ Distributions; relationships between variables; bias; hypo
 __*Topics covered:*__ Basic classification and clustering algorithms; regularization; model assumptions and validation; bias-variance tradeoff; introduction to implementation in TensorFlow and sci-kit learn   
   
 **4. Spatial analysis:** *Finding location-specific answers to your questions*  
-__*Topics covered:*__ Spatial regression; geopandas  
+__*Topics covered:*__ Spatial regression; Geopandas  
   
 **5. Introduction to interactive visualization:** *Creating tools to facilitate exploration*  
-__*Topics covered:*__ Dashboard and interactive best practices; bokeh; seaborn; Tableau  
+__*Topics covered:*__ Dashboard and interactive best practices; Bokeh; Seaborn; Tableau  
   
 **6. Non-tabular data:** *Methods for gathering and analyzing text and unstructured data*  
-__*Topics covered:*__  Web scraping using beautifulsoup and Selenium; overview of natural language processing techniques; unstructured data (image, audio, etc.)
+__*Topics covered:*__  Web scraping using Beautifulsoup and Selenium; overview of natural language processing techniques; unstructured data (image, audio, etc.)
   
 **7. Big data tools:** *Working with databases and large datasets*  
 __*Topics covered:*__ Introduction to databases (overview of RESTful APIs, NoSQL databases, MongoDB, pymongo); SQL; overview of big data tools (Hadoop, Hive, Pig, pySpark) and cloud computing; overview of dimensionality reduction  
@@ -42,7 +42,7 @@ These are the topics that I collected from scouring syllabi for data science boo
 - model validation and hyperparameter tuning specifically
 - predictive analytics
 - social network analysis
-- factor analysus
+- factor analysis
 - Bayesian analysis
 - parallel computing - dask
 - OOP
